@@ -16,3 +16,5 @@ ASS-6.2[https://github.com/2303A52058/Generative-AI/blob/main/Gen_AI_A6_2.ipynb]
 ASS-7.2[https://github.com/2303A52058/Generative-AI/blob/main/Gen_AI_A7_2.ipynb]
 
 ASS-8.1[https://github.com/2303A52058/Generative-AI/blob/main/Gen_AI_A8_1.ipynb]
+
+ASS-9.1[https://github.com/2303A52058/Generative-AI/blob/main/Gen_AI_A9_1.ipynb]
